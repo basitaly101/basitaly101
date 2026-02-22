@@ -46,7 +46,7 @@ Hi! I'm **Abdul Basit**, a passionate **Full Stack Web Developer** specializing 
 ---
 
 ## 🌐 Contact & Portfolio
-- **Email:** abdulbasit@example.com  
+- **Email:** basitaly261@gmail.com  
 - **GitHub:** [github.com/basitaly101](https://github.com/basitaly101)  
 - **LinkedIn:** [linkedin.com/in/abdul-basit-aly](https://www.linkedin.com/in/abdul-basit-aly/)  
 - **Portfolio:** [ab-dev-portfolio.surge.sh](https://ab-dev-portfolio.surge.sh/)
