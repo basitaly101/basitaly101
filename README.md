@@ -1,89 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdul%20Basit&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0D1117&height=250&section=header&text=Abdul%20Basit&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=60" alt="Header Banner" />
   
-  <h3>Hi there 👋, I'm a passionate Full Stack Web Developer</h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Hi+There!+👋;I'm+a+Full+Stack+Developer+💻;Building+Scalable+Web+Apps+🚀;Turning+Ideas+into+Reality+✨&color=38B2AC" alt="Typing effect" />
+  
+  <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Apps;React+%26+Next.js+Enthusiast;MERN+Stack+Expert;Creating+Impact+Through+Code&center=true&width=500&height=50&color=38B2AC&vCenter=true&size=22">
-  
-  <p align="center">
-    <a href="https://ab-dev-portfolio.surge.sh/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
-    </a>
+  <a href="https://basit-dev-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_New_Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" alt="New Portfolio" />
+  </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=basitaly101&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-- 🔭 I’m currently building **Modern, Responsive & Scalable Web Applications**.
-- 🌱 Always learning and improving my **Full-Stack skills** (Currently diving deeper into Next.js & System Architecture).
-- 🤝 Open to **remote freelance or full-time opportunities**.
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, and Firebase**.
-- 📫 Reach out to me: **[basitaly261@gmail.com](mailto:basitaly261@gmail.com)**
+I am a passionate **Full Stack Web Developer** specializing in modern web technologies. I thrive on building responsive, scalable, and user-friendly web applications with a strong focus on clean architecture and best practices.
+
+- 🏗️ **Currently building:** Advanced Full-Stack MERN & Next.js applications.
+- 🌱 **Currently learning:** System Architecture & Advanced Server-Side Rendering.
+- 💬 **Ask me about:** React.js, Next.js, Node.js, Express, MongoDB, and Firebase.
+- 📫 **Reach out:** [basitaly261@gmail.com](mailto:basitaly261@gmail.com)
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
+  <p><strong>Frontend & Styling</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,styledcomponents&perline=8" alt="Frontend Skills" />
+  
+  <br><br>
+  
+  <p><strong>Backend & Database</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=8" alt="Backend Skills" />
+  
+  <br><br>
 
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-### ⚙️ Backend & Database
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-
-### 🚀 Tools & Deployment
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-
+  <p><strong>Tools & Deployment</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,heroku,figma,postman&perline=8" alt="Tools" />
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="Abdul Basit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=react&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=basitaly101&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Basit's Trophies" />
+  </a>
 </div>
 
 ---
 
-## 💡 What I Do
+## 📊 Developer Analytics
 
-- 🏗️ **Full-Stack Development:** Connecting React/Next.js frontends with robust Express.js/Firebase backends.
-- 🔐 **Secure Authentication:** Implementing secure login/signup flows with JWT and Firebase Auth.
-- ⚡ **API Integration & CRUD:** Handling complex data manipulation with MongoDB and Firestore.
-- 🎨 **Modern UI/UX:** Designing beautiful, responsive layouts using CSS3, Tailwind CSS, and Styled Components.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaly101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💡 Philosophy
 
 > *"Code is not just lines on a screen; it's a tool to create impact."*
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-basit-aly/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:basitaly261@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/basitaly101" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:basitaly261@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
