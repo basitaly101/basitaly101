@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+14+Specialist;Building+Modern+Web+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+14+Specialist;Building+Modern+Web+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
 </p>
 
 <p align="center">
@@ -20,30 +20,12 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=dark&hide_border=false&title_color=00b4d8&icon_color=00b4d8" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaly101&layout=compact&theme=dark&hide_border=false&title_color=00b4d8" width="100%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ THE ARSENAL (3D Tech Stack)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind,figma,git,github,vercel,postman,redux,mysql,bootstrap&perline=8" />
 </p>
-
----
-
-## 🌌 ACTIVITY & STREAK
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=dark&hide_border=false&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="85%" />
-</div>
 
 ---
 
