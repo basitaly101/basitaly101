@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=ABDUL%20BASIT&fontSize=90&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Fresher&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=280&section=header&text=ABDUL%20BASIT&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Fresher&descAlignY=55&descAlign=50" width="100%" />
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Next.js+14+Specialist;Building+Modern+Scalable+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+14+Specialist;Building+Modern+Web+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
 </p>
 
 <p align="center">
   <a href="https://basit-dev-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-0077b6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-0077b6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:basitaly261@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL_ME-white?style=for-the-badge&logo=gmail&logoColor=D14836" />
+    <img src="https://img.shields.io/badge/✉️_HIRE_ME_NOW-white?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </p>
 
@@ -23,20 +23,13 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=dark&hide_border=false&title_color=00b4d8&icon_color=00b4d8" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaly101&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaly101&layout=compact&theme=dark&hide_border=false&title_color=00b4d8" width="100%" />
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 REPUTATION & MILESTONES
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basitaly101&theme=ocean&no-frame=true&margin-w=15&column=4" width="90%" alt="Basit's Trophies" />
-</div>
 
 ---
 
@@ -49,7 +42,7 @@
 
 ## 🌌 ACTIVITY & STREAK
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=dark&hide_border=false&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="85%" />
 </div>
 
 ---
@@ -78,7 +71,7 @@
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=basitaly101&label=PROFILE%20ACCESSES&color=00b4d8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=basitaly101&label=PROFILE%20VIEWS&color=00b4d8&style=flat-square" />
 </div>
 
 <br/>
