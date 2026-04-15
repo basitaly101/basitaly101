@@ -1,79 +1,78 @@
-# 🚀 Portfolio System v2.0
 
 <div align="center">
 
-  <img src="REPLACE_WITH_YOUR_HERO_IMAGE_OR_GIF_LINK" alt="Abdul Basit - Portfolio System" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=280&section=header&text=ABDUL%20BASIT&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Fresher&descAlignY=55&descAlign=50" width="100%" />
 
-  <br/>
+<br/>
 
-  <a href="https://basit-dev-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-SYSTEM.ONLINE-030a03?style=for-the-badge&logo=statuspage&logoColor=00ff41&labelColor=003a00&color=00ff41" alt="Portfolio" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+14+Specialist;Building+Modern+Web+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+14+Specialist;Building+Modern+Web+Apps;Passionate+Fresher+Ready+to+Code" alt="Typing Effect" />
+</p>
+
+<p align="center">
+@@ -20,17 +20,6 @@
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=basitaly101&show_icons=true&theme=dark&hide_border=false&title_color=00b4d8&icon_color=00b4d8" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitaly101&layout=compact&theme=dark&hide_border=false&title_color=00b4d8" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ THE ARSENAL (3D Tech Stack)
+@@ -40,46 +29,39 @@
+
+---
+
+## 🌌 ACTIVITY & STREAK
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitaly101&theme=dark&hide_border=false&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="85%" />
+</div>
+
+---
+
+## 💡 ABOUT ME
+- 🎓 **Fresher Full Stack Developer:** Dedicated to building high-quality web applications.
+- 🚀 **Tech Focused:** Specialized in **MERN Stack** and **Next.js 14**.
+- ⚙️ **Backend Engineering:** Creating secure APIs and efficient database schemas.
+- 🎨 **UX/UI Lover:** Crafting smooth, responsive, and interactive user experiences.
+
+---
+
+## 🛰️ LET'S CONNECT
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdul-basit-aly/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://github.com/basitaly101">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:basitaly261@gmail.com">
-    <img src="https://img.shields.io/badge/HIRE_ME-OPEN_TO_HIRE-030a03?style=for-the-badge&logo=maildotru&logoColor=00ff41&labelColor=003a00&color=39ff14" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=basitaly101&label=PROFILE%20VIEWS&color=00b4d8&style=flat-square" />
 </div>
 
 <br/>
+
+> "Every great developer was once a beginner who refused to quit."
 
 ---
 
-### 🟢 // module_01.about > WHO AM I
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=20&section=footer" width="100%" />
 
-<div align="center">
-  <img src="REPLACE_WITH_YOUR_ABOUT_IMAGE_LINK" alt="About Me Modules" width="100%" />
-</div>
-
-<br/>
-
----
-
-### 🛠️ // module_02.arsenal > TECH STACK
-
-<div align="center">
-  <img src="REPLACE_WITH_YOUR_TECH_IMAGE_LINK" alt="Technology Arsenal Grid" width="100%" />
-</div>
-
-<br/>
-
----
-
-### 📟 // module_03.terminal > QUICK INFO
-
-<div align="center">
-  <img src="REPLACE_WITH_YOUR_TERMINAL_IMAGE_LINK" alt="Terminal Command Output" width="100%" />
-</div>
-
-<br/>
-
----
-
-### 🌐 // module_04.connect > LET'S CONNECT
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/abdul-basit-aly/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/basitaly101" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:basitaly261@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://basit-dev-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-030a03?style=for-the-badge&logo=statuspage&logoColor=00ff41" alt="Portfolio" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=60&section=footer&bgColor=030a03" width="100%"/>
 </div>
